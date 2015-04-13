@@ -5,8 +5,8 @@ To Install and Run
 ---
 
 1. If you do not already have Node.js installed and are on mac, **open the Terminal app** and type `brew install node`.
-2. `npm install -g tempDB-change`.
-3. run database any time with `tempDB-change`.
+2. `npm install -g tempdb-change`.
+3. run database any time with `tempdb-change`.
 
 
 
